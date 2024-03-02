@@ -12,7 +12,7 @@ I am also an experienced Blockchain Developer with skills including Blockchain, 
 Recently, I have worked on Blockchain Technology.
 • NFT marketplace, DeFi/DApp Development
 • Creating an exchange Trading platforms with 3rd part liquidity API, Margin trading etc.
-• Smart Contract (ERC20 + ERC21) and Audit
+• Smart Contract (ERC20 + ERC21) and Audit.
 • Wallet development (HOT /COLD/ETHER/P2P/ ETH WALLET)
 • Crypto Arbitrage
 • Metaverse/Sandbox Development
