@@ -9,23 +9,23 @@ In web development, my proficiency lies in using React and Vue to build scalable
 My experience also extends to creating cross-platform mobile apps with React Native, Flutter and developing native applications using Swift for iOS and Java, Kotlin for Android.
 
 I am also an experienced Blockchain Developer with skills including Blockchain, Cryptocurrency, Non-fungible Tokens (NFT) and Smart Contracts.
-Recently, I have worked on Blockchain Technology.
-• NFT marketplace, DeFi/DApp Development
-• Creating an exchange Trading platforms with 3rd part liquidity API, Margin trading etc.
-• Smart Contract (ERC20 + ERC21) and Audit.
-• Wallet development (HOT /COLD/ETHER/P2P/ ETH WALLET)
-• Crypto Arbitrage
-• Metaverse/Sandbox Development
+Recently, I have worked on Blockchain Technology.<br>
+• NFT marketplace, DeFi/DApp Development<br>
+• Creating an exchange Trading platforms with 3rd part liquidity API, Margin trading etc.<br>
+• Smart Contract (ERC20 + ERC21) and Audit.<br>
+• Wallet development (HOT /COLD/ETHER/P2P/ ETH WALLET)<br>
+• Crypto Arbitrage<br>
+• Metaverse/Sandbox Development<br>
 
-I have also developed multiple projects using the latest Large Language Models(OpenAI GPT and ChatGPT), Langchain, Vector Databases, and Stable Diffusion. I can help you:
+I have also developed multiple projects using the latest Large Language Models(OpenAI GPT and ChatGPT), Langchain, Vector Databases, and Stable Diffusion. I can help you:<br>
 
-• Building your AI SaaS
-• Integrating OpenAI's GPT-4/ChatGPT into your business flow
-• Finetune an LLM model specific to your niche
-• Designing a prompt engineering solution to decrease some of the workload in your business
-• Building Smart Chatbots which can reply to customers and enhance the abilities of your support teams
-• Developing Voice assistants for outbound calls
-• Integrating Stable diffusion solutions for your content creation process.
+• Building your AI SaaS<br>
+• Integrating OpenAI's GPT-4/ChatGPT into your business flow<br>
+• Finetune an LLM model specific to your niche<br>
+• Designing a prompt engineering solution to decrease some of the workload in your business<br>
+• Building Smart Chatbots which can reply to customers and enhance the abilities of your support teams<br>
+• Developing Voice assistants for outbound calls<br>
+• Integrating Stable diffusion solutions for your content creation process.<br>
 
 My approach to development is grounded in strong problem-solving skills, meticulous attention to detail, and the ability to work effectively in team settings. I pride myself on quickly understanding project requirements, translating them into efficient technical solutions, and consistently exceeding client expectations. Staying abreast of the latest technological trends and practices is a commitment for me, ensuring that I bring innovative and up-to-date solutions to the table.
 
